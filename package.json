@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "init": "^0.1.2",
+    "postcss": "^8.2.1",
+    "tailwindcss": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "live-server .",
+    "tw": "tailwindcss"
+  }
+}
